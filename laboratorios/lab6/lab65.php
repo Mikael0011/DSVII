@@ -10,9 +10,9 @@ class ClaseBase{
 }
 
 class ClaseHijo extends ClaseBase{
-    public function masTests() {
-        echo "ClaseHijo::masTest() llamada\n";
-    }
+    public function otrometodo() {
+        echo "ClaseHijo::masTests() llamada\n";
+        }
 }
 
 ?>
